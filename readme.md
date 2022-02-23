@@ -4,9 +4,7 @@
 <h1> Minha apresentacao!</h1>
 ```
 
-Sou estudante de Desenvolvimento de sistemas
-
-Nas horas livres, gosto de práticar musculação, jogar futebol e passar horas maratonando séries na *internet*.
+Sou estudante de Desenvolvimento de sitemas, gosto bastante de front end, html, css e já usei um pouco do framework bootstrap, também gosto bastante de programar na linguagem java e javascript, tenho muita vontade de aprender a usar outros frameworks e api's.
 
 ------------
 
