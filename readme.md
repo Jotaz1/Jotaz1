@@ -10,8 +10,7 @@ Sou estudante de Desenvolvimento de sitemas, gosto bastante de front end, html, 
 
 ### Habilidades Técnicas
 
-[![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]() [![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]() [![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]() [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-
+[![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]() [![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]() [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()  [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 ------------
 
 ### Minhas redes
