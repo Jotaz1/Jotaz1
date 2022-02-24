@@ -5,7 +5,7 @@
 
 
 
-<h1> Olá, eu me chamo Jonatas! </h1>
+<h1> Olá, eu me chamo Jonatas Cunha! </h1>
 
 Sou estudante de Desenvolvimento de sitemas, gosto bastante de front end, html, css e já usei um pouco do framework bootstrap, também gosto bastante de programar na linguagem java e javascript, tenho muita vontade de aprender a usar outros frameworks e api's.
 
