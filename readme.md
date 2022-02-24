@@ -7,7 +7,7 @@
 
 <h1> Olá, seja bem vindo ao meu Github 👋😄</h1>
 
-Sou estudante de Desenvolvimento de Sistemas, gosto bastante de trabalhar com as linguagens html, css, java e javascript. Tenho muita sede de aprendizado e estou disposto a aprender novas linguagens e tecnologias!
+Sou estudante de Desenvolvimento de Sistemas, gosto bastante de trabalhar com as linguagens HTML5, CSS, Java e JavaScript. Tenho muita sede de aprendizado e estou disposto a aprender novas linguagens e tecnologias!
 
 ------------
 
