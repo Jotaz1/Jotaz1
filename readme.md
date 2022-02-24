@@ -5,9 +5,9 @@
 
 
 
-<h1> Olá, eu me chamo Jonatas Cunha! </h1>
+<h1> Olá, seja bem vindo ao meu Github 👋😄</h1>
 
-Sou estudante de Desenvolvimento de sitemas, gosto bastante de front end, html, css e já usei um pouco do framework bootstrap, também gosto bastante de programar na linguagem java e javascript, tenho muita vontade de aprender a usar outros frameworks e api's.
+Sou estudante de Desenvolvimento de Sistemas, gosto bastante de trabalhar com as linguagens html, css, java e javascript. Tenho muita sede de aprendizado e estou disposto a aprender novas linguagens e tecnologias!
 
 ------------
 
