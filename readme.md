@@ -1,4 +1,4 @@
-![blog-banner-github-scanning](https://user-images.githubusercontent.com/94147620/155620965-cd60b045-61c0-40fa-9622-7aff986db696.png)
+![blog-banner-github-scanning](file:///C:/Users/jonat/Desktop/banner%20git.png)
 
 
 
